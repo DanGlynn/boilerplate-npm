@@ -1,6 +1,7 @@
 
 {	
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dan-Glynn",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -15,5 +16,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Dan-Glynn",
+	
 }
